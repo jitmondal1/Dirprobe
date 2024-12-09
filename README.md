@@ -35,7 +35,7 @@ Dirprobe is a fast and customizable directory brute-forcing tool designed to hel
   - -o, --output: File to save discovered URLs.
 
 ## Examples
-1. Help manu:
+1. Help menu:
    ```bash
    ./dirprobe.py -h
    ```
