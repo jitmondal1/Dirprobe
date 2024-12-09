@@ -5,7 +5,7 @@ Dirprobe is a fast and customizable directory brute-forcing tool designed to hel
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Dirprobe.git
+   https://github.com/jitmondal1/Dirprobe.git
    cd Dirprobe
    ```
 2. Install dependencies:
